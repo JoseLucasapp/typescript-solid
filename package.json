@@ -8,7 +8,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./src/index.ts"
+    "dev": "nodemon ./src/srp/main.ts"
   },
   "keywords": [],
   "devDependencies": {
